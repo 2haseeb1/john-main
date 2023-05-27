@@ -2,6 +2,7 @@
 
 import './App.css'
 import Header from './Components/Header/Header'
+import Shop from './Components/Header/Shop'
 
 function App() {
  
@@ -9,7 +10,8 @@ function App() {
   return (
     <>
       <div>
-       <Header/>
+        <Header />
+        <Shop/>
       </div>
      
      
