@@ -1,0 +1,13 @@
+.cart{
+    background:#FFE0B3;
+    padding: 25px;
+    position: sticky;
+    top:0;
+}
+.cart p{
+    color:black;
+    font-size: 17px;
+    font-weight: 400;
+    list-style: 20.4px;
+
+}
